@@ -1,0 +1,15 @@
+name = "ip"
+main = "worker.js"
+compatibility_date = "2024-02-05"
+
+# Uncomment if using TypeScript
+# compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# Define any environment variables if needed
+
+[triggers]
+crons = []
+
+[placement]
+mode = "smart"

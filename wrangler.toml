@@ -1,0 +1,9 @@
+name = "ip"
+main = "src/index.js"
+compatibility_date = "2025-02-04"
+
+[observability]
+enabled = true
+
+[placement]
+mode = "smart"

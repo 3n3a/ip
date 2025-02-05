@@ -1,6 +1,6 @@
 name = "ip"
 main = "worker.js"
-compatibility_date = "2024-02-05"
+compatibility_date = "2022-07-12"
 
 # Uncomment if using TypeScript
 # compatibility_flags = ["nodejs_compat"]
